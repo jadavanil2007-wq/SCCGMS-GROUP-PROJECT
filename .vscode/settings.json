@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "code-runner.runInTerminal": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
